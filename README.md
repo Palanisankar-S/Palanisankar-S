@@ -6,7 +6,7 @@ Software Test Enginner
 - Engineeing at [<img src="https://logo.lusha.co/d/company_15102648_logo.jpg" height="24">](https://aaaenggcoll.ac.in/),
 - worked with [<img src="https://www.simplesolve.com/hs-fs/hubfs/SimpleSolveLogo_trsp_100px.png?width=137&height=100&name=SimpleSolveLogo_trsp_100px.png" height="24">](https://www.simplesolve.com/in/) [<img height="24" width="24" src="https://cdn.prod.website-files.com/6626410e05635d300b393781/6626470cbc8d6debaaa5adeb_Incubyte%20Logo.svg">](https://www.incubyte.co/)
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/palanisankar-s-softwaretester1807).
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/palanisankar-s-softwaretester1807/).
 
 ### I code in
 <img width="50" height="50" src="https://img.icons8.com/arcade/64/javascript.png" /> <img width="50" height="50" src="https://img.icons8.com/3d-fluency/50/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg" /> <img height="50" width="50" src="https://www.karatelabs.io/assets/images/logo.svg" /> <img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" /> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-filled-tal-revivo.png" /> <img width="50" height="50" src="https://img.icons8.com/arcade/64/api.png" />
