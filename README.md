@@ -2,7 +2,7 @@
 
 **Software Test Enginner**
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                              
-- 🌱 I’m currently working and learning and Integrating AI to my workflow
+- 🌱 I’m currently working and learning
 - Engineeing at [<img src="https://logo.lusha.co/d/company_15102648_logo.jpg" height="24">](https://aaaenggcoll.ac.in/),
 - worked with [<img src="https://www.simplesolve.com/hs-fs/hubfs/SimpleSolveLogo_trsp_100px.png?width=137&height=100&name=SimpleSolveLogo_trsp_100px.png" height="24">](https://www.simplesolve.com/in/) [<img height="24" width="24" src="https://cdn.prod.website-files.com/6626410e05635d300b393781/6626470cbc8d6debaaa5adeb_Incubyte%20Logo.svg">](https://www.incubyte.co/)
 - Social Presence
