@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋 It's me Palanisankar
 
-<!--
-**Palanisankar-S/Palanisankar-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Test Enginner
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                              
+- 🌱 I’m currently working and learning and Integrating AI to my workflow
+- Engineeing at [<img src="https://logo.lusha.co/d/company_15102648_logo.jpg" height="24">](https://aaaenggcoll.ac.in/),
+- worked with [<img src="https://www.simplesolve.com/hs-fs/hubfs/SimpleSolveLogo_trsp_100px.png?width=137&height=100&name=SimpleSolveLogo_trsp_100px.png" height="24">](https://www.simplesolve.com/in/) [<img height="24" width="24" src="https://cdn.prod.website-files.com/6626410e05635d300b393781/6626470cbc8d6debaaa5adeb_Incubyte%20Logo.svg">](https://www.incubyte.co/)
+- Social Presence
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/palanisankar-s-softwaretester1807).
 
-Here are some ideas to get you started:
+### I code in
+<img width="50" height="50" src="https://img.icons8.com/arcade/64/javascript.png" /> <img width="50" height="50" src="https://img.icons8.com/3d-fluency/50/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg" /> <img height="50" width="50" src="https://www.karatelabs.io/assets/images/logo.svg" /> <img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" /> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-filled-tal-revivo.png" /> <img width="50" height="50" src="https://img.icons8.com/arcade/64/api.png" />
+<img height="50" width="50" src="https://jmeter.apache.org/images/asf-logo.png" /> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" /> <img width="50" height="50" src="https://raw.githubusercontent.com/excalidraw/excalidraw-logo/master/og-image.png" />
+<img width="50" height="50" src="https://obsidian.md/images/obsidian-logo-gradient.svg" />
+
+### Test management tool i familiar
+<img width="50" height="50" src="https://img.icons8.com/color/48/jira.png" /> <img width="50" height="50" src="https://www.h-hennes.fr/blog/wp-content/uploads/2021/05/mantis_logo_262x90.png" /> <img width="50" height="50" src="https://www.taskbench.com/img/logo-flat.png" />
+
+
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+
+[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
