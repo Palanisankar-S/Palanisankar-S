@@ -11,7 +11,7 @@ Software Test Enginner
 ### I code in
 <img width="50" height="50" src="https://img.icons8.com/arcade/64/javascript.png" /> <img width="50" height="50" src="https://img.icons8.com/3d-fluency/50/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg" /> <img height="50" width="50" src="https://www.karatelabs.io/assets/images/logo.svg" /> <img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" /> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-filled-tal-revivo.png" /> <img width="50" height="50" src="https://img.icons8.com/arcade/64/api.png" />
 <img height="50" width="50" src="https://jmeter.apache.org/images/asf-logo.png" /> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
-<img width="50" height="50" src="https://images.seeklogo.com/logo-png/42/1/github-actions-logo-png_seeklogo-428028.png" />
+<img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GithubActions-Dark.svg" />
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" /> <img width="50" height="50" src="https://raw.githubusercontent.com/excalidraw/excalidraw-logo/master/og-image.png" />
@@ -31,6 +31,6 @@ Software Test Enginner
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Palanisankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palanisankar-S&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 [![Palanisankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Palanisankar-S&bg_color=0d0c0d&color=fafafa&line=12c43f&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
